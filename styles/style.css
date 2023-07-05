@@ -4,6 +4,7 @@ body {
 div  {
     background-color:tomato ;
     border: 3px dotted black;
+    margin: 20px;
 }
 h1 {
     text-align: center;
