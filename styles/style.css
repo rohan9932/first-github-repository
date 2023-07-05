@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+}
+div  {
+    background-color:tomato ;
+    border: 3px dotted black;
+}
+h1 {
+    text-align: center;
+    font-weight: 900;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+    text-align: justify;
+    padding: 10px;
+}
